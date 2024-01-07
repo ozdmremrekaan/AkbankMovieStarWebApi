@@ -1,0 +1,6 @@
+@AkbankMovieStarWebApi_HostAddress = http://localhost:5219
+
+GET {{AkbankMovieStarWebApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
